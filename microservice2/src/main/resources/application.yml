@@ -1,1 +1,14 @@
 
+
+server:
+  port: 8088
+spring:
+  application:
+    name: m2
+  config:
+    import:
+     - optional:configserver:http://localhost:8999
+
+m2:
+ data: "m2 data"
+ limit: 5
