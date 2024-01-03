@@ -3,11 +3,11 @@ Ready-made microservice project with openId, Oauth2, Central exception handling,
 
 
 Available functionalities
-1)OpenId and Oauth2 for authentication and authorization
-2)Central exception handling
-3)Central Authentication and authorization will be available at each microservice
-4)Use of Docker to create image of microservices
-5)Kubernetes to deploy
-6)CI-CD using jenkins
+1. OpenId and Oauth2 for authentication and authorization
+2. Central exception handling
+3. Central Authentication and authorization will be available at each microservice
+4. Use of Docker to create image of microservices
+5. Kubernetes to deploy
+6. CI-CD using jenkins
 
 Will provide Steps for all above features also
